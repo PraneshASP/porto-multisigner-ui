@@ -6,6 +6,7 @@ A clean, secure web interface for managing multisig transactions using Porto Web
 
 https://github.com/user-attachments/assets/e60bd02c-2ed1-485f-9b86-0d5030393102
 
+> Note: I'm not a frontend dev. The UI was built in a couple of days with Claude code. So please report bugs if you find any. 
 
 ## Features
 
